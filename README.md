@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Laravel, Java, Javascript**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Nickyalief/Nickyalief/issues)**
+💬 Ask me about **Laravel, Kisah Hidup, Masalah... or anything [here](https://github.com/Nickyalief/Nickyalief/issues)**
 
 ⚡ Fun fact **Jangan malu dengan kegagalan, belajarlah darinya dan mulai lagi**
 
