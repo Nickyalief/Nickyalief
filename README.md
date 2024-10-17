@@ -24,7 +24,7 @@
   <a href="mailto:nickyalief7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.instagram.com/nicky_alief/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
   <a href="https://salesp07.github.io" target="_blank">
